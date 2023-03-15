@@ -6,15 +6,13 @@
 [프로젝트 소개]
 
 Welcome to the repository!
-해당 repo는 FuriosaAI의 사전 과제의 일환으로서, 랜덤 이미지 10장에 대한 object detection을 FasterrCnn 모델을 사용해서 구현한 프로젝트 입니다.
+해당 repo는 FuriosaAI의 사전 과제의 일환으로서, 랜덤 이미지 10장에 대한 object detection을 FasterrCnn 모델을 사용해서 구현한 프로젝트입니다.
 
 
 
 [프로젝트 사전작업]
 
-우선 이 프로젝트의 목적과 취지를 이해하기 위해서 reference 폴더 안의 obj_detection_milestone.pptx을 다운받아서, 프로젝트의 milestone과 specification들을 한번 확인해 보시는 것을 권장드립니다.
-
-이 저장소를 clone 또는 fork 이후에, reference 폴더 안의 requirements.txt 파일에 있는 총 7개의 파이썬 라이브러리를 해당 버전에 맞게 설치해 주세요.
+우선 이 프로젝트의 목적과 취지를 이해하기 위해서 reference 폴더 안의 obj_detection_milestone.pptx를 다운받아서, 프로젝트의 milestone과 specification 들을 한번 확인해 보시는 것을 권장해 드립니다. 또한, 저장소를 clone 또는 fork 이후에, reference 폴더 안의 requirements.txt 파일에 있는 총 7개의 파이썬 라이브러리를 해당 버전에 맞게 설치해 주세요.
 
 
 
