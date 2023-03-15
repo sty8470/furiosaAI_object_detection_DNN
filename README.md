@@ -1,4 +1,5 @@
 # furiosaAI_object_detection_DNN
+![image](https://user-images.githubusercontent.com/30963732/225328905-85d73d7a-70b5-48f8-8d65-bfd8ed3466a1.png)
 
 
 
@@ -32,6 +33,6 @@ Welcome to this repository!
 이 이외에도 궁금하거나 추가적인 문의가 있으시면, 개인 연락처 또는 이메일로 연락을 부탁드립니다. 감사합니다.
 
 
-![image](https://user-images.githubusercontent.com/30963732/225328905-85d73d7a-70b5-48f8-8d65-bfd8ed3466a1.png)
+
 
 
