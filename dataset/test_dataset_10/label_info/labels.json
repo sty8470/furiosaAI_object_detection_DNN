@@ -1,0 +1,10 @@
+{
+    "label_names" : [
+        "santa", "socks", "furnace", "christmas tree", "candle", "teddy bear","fork" , "knife" , "spoon" , "bowl" , 
+        "banana" , "apple" , "sandwich" , "orange" , "broccoli" , "carrot" , "hot dog" ,
+        "pizza" , "donut" , "cake" , "chair" , "couch" , "potted plant" , "bed" ,
+        "mirror" , "dining table" , "window" , "umbrella" , "toilet" , "door" , "tv" ,
+        "laptop" , "prot" , "remote" , "keyboard" , "cell phone" , "microwave", "air ballon", 
+        "spaceship", "satellite", "nail", "neck", "nose", "eyes", "tiger", "cat", "cheese"
+    ]
+}

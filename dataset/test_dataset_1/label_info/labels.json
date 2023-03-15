@@ -1,0 +1,5 @@
+{
+    "label_names" : [
+        "person", "torso", "pants", "shoes", "hands"
+    ]
+}

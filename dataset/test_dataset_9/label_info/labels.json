@@ -1,0 +1,10 @@
+{
+    "label_names" : [
+    "rice", "washer", "net", "chopstick", "paddle" , "knife" , "spoon" , "bowl" , 
+    "banana" , "apple" , "sandwich" , "orange" , "broccoli" , "carrot" , "hot dog" ,
+    "pizza" , "donut" , "cake" , "chair" , "couch" , "potted plant" , "bed" ,
+    "mirror" , "dining table" , "window" , "desk" , "toilet" , "door" , "tv" ,
+    "laptop" , "mouse" , "remote" , "keyboard" , "ping pong paddle" , "microwave" ,
+    "oven" , "ping pong ball" , "sink" , "refrigerator" , "blender" , "book" ,
+    "clock" , "vase" , "scissors" , "teddy bear" , "hair drier" , "toothbrush" , "hair brush"]
+}
